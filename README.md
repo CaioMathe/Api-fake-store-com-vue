@@ -1,24 +1,5 @@
-# dacxi-test
+Projeto realizado utilizando Vue.js + Tailwind.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1 - Tela de carregamento, após fazer a requisição dos dados via fetch, vai construir o layout da aplicação.
+2 - foi feio 1 componente principal para renderizar todos os dados. 
+3 - O preço e outros valores são atualizados a cada 1 minuto.
